@@ -1,0 +1,2 @@
+# Analyze_Retail_Sales_Performance_Using_Microsoft_Excel
+This project analyzes sales performance of a global bicycle retail company using Excel. It converts raw transactional data into a structured data model and interactive dashboard, enabling management to track revenue, profit, regional performance, customer segments, and discount impact to support strategic planning for the next business cycle.
